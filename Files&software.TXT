@@ -1,0 +1,25 @@
+Microsoft Visual Studio Express 2017 for Windows Desktop:  NC axis display appli.sln
+
+
+DB Browser (SQLite): mydata.db
+
+
+VS code: FOCAS2NCplot-->Gradationmap.py 
+
+1111 # Retrieve/ Read Data from the latest data table name
+
+2222 #Retrieve/ Read specific Data from any table name in the Database
+
+
+
+
+To create shortcut Application(Application window opens in double click):  2024.02.7 TXT,SQlite NCaxisappli(main project folder) --> NC axis display appli\bin\Debug\NC axis display appli.exe
+
+To view the application window: open (.sln - C# program file) in Microsoft Visual Studio Express 2017 for Windows Desktop -> click on the Run button. 
+
+If any changes to be done within the .sln file(C# program) -> change the main file (Form1.cs)
+
+Desktop software application for industrial automation systems, focusing on the Friction Stir Welding (FSW) quality assurance project. Real-time monitoring and analysis of spindle axis position data.
+This application is for monitoring and data collection in the SQLite database. 
+Develop an algorithm for efficient data sampling and analysis, ultimately
+enabling real-time processing status visualization through dynamic 3D plots using Python programming.
